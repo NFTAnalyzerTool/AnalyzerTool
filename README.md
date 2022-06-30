@@ -8,3 +8,6 @@ You must know the password, which will be provided to you by one of our represen
 Be sure to unpack the archive with our application into a folder convenient for you so that there are no problems with the application.
 Ask representatives or developers about all features and bugs. 
 Also keep in mind that the application only works on Windows OS, as this is our first version of the client.	
+# A couple of screenshots of the functions.
+![Tool](https://user-images.githubusercontent.com/108488346/176764448-041fbf55-b07f-4427-a58b-c9ccada9c665.png)
+![Tool 2](https://user-images.githubusercontent.com/108488346/176764467-fe6a3c39-15a0-457e-b219-e4c35ded9348.png)
